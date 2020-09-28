@@ -1,4 +1,4 @@
-### Hi  👋 Welcome to my github page 
+### Hi  👋 Welcome to my github profile 
 
 <!--
 **bolti95/bolti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
